@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG-Based Financial Document Assistant
 
 ## Project Overview
@@ -26,3 +27,6 @@ rag_financial_assistant/
 └─ README.md
 
 
+=======
+# Financial-Document-Assistant
+>>>>>>> 1be61b5711159b1e0f097288cab24949ffb0acca
