@@ -28,5 +28,4 @@ rag_financial_assistant/
 
 
 =======
-# Financial-Document-Assistant
->>>>>>> 1be61b5711159b1e0f097288cab24949ffb0acca
+
