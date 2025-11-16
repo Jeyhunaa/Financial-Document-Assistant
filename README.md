@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RAG-Based Financial Document Assistant
 
 ## Project Overview
@@ -13,18 +12,21 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system to ext
 - Dockerized for easy deployment  
 
 ---
-
 ## Project Structure
+
+```
 rag_financial_assistant/
 ├─ app/
-│   ├─ main.py           # FastAPI app
-│   ├─ utils.py          # PDF extraction & embeddings
-│   ├─ rag.py            # RAG pipeline with LLM
-│   ├─ requirements.txt  # Python dependencies
+│  ├─ main.py            # FastAPI app
+│  ├─ utils.py           # PDF extraction & embeddings
+│  ├─ rag.py             # RAG pipeline with LLM
+│  ├─ requirements.txt   # Python dependencies
 ├─ data/
-│   └─ sample_pdf.pdf    # Sample financial document
+│  └─ sample_pdf.pdf     # Sample financial document
 ├─ Dockerfile            # Docker container
 └─ README.md
+```
+
 
 
 =======
